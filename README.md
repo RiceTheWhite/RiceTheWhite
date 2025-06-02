@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I'm Rice/Ray. I am currently practicing programming as a hobby. I have a few repos that contains my works, and also a [website](https://superduperdopewebsite.vercel.app/spotify)
+### I'm Rice/Ray. I am currently practicing programming as a hobby. I have a few repos that contain my works, and also a [website](https://superduperdopewebsite.vercel.app/spotify)
 
 <!--
 **RiceTheWhite/RiceTheWhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
