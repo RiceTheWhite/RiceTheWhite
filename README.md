@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+
+### I'm Rice/Ray. I am currently practicing programming as a hobby. I have a few repos that contains my works, and also a [website](https://superduperdopewebsite.vercel.app/spotify)
 
 <!--
 **RiceTheWhite/RiceTheWhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+quote of the year from the comment section of a [goated youtuber](https://www.youtube.com/@realcrin)
+![quote](/learningexperience.png)
