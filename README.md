@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-quote of the year from the comment section of a [goated youtuber](https://www.youtube.com/@realcrin)
+quote of the year taken from discord
 ![quote](/learningexperience.png)
